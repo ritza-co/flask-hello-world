@@ -1,4 +1,4 @@
-[![Run on Repl.it](https://repl.it/badge/github/wcmz/flask-hello-world)](https://repl.it/github/wcmz/flask-hello-world)
+[![Run on Repl.it](https://replit.com/badge/github/wcmz/flask-hello-world)](https://replit.com/github/wcmz/flask-hello-world)
 
 This is a basic Flask app to demonstrate how to use Repl.it with GitHub.
 
